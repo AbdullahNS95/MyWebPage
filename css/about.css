@@ -1,0 +1,43 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  float:left;
+   
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: ;
+  padding: 14px 16px;
+  text-decoration: none;
+	
+}
+li a:hover {
+  background-color: #111;
+}
+.active {
+  background-color: #db7f13;
+}
+
+ .contactPage{
+    position: relative;
+    width: 35%;
+    height: 350px;
+    background-color: #CCC;
+    margin: 1% 0 0 15%;
+    }
+
+.contactPage{
+    height: 100%;
+    width: 100%;
+    }
